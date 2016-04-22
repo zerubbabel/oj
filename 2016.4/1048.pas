@@ -1,6 +1,8 @@
 {
 作者:playoffs2005@163.com
 题目:p1576 最长严格上升子序列
+DP
+使用记忆化搜索写，比较好些
 }
 
 var n,i,j,max:longint; 
